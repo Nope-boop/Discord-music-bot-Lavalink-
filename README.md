@@ -29,7 +29,6 @@ You will need the following installed on your system:
 * **Java Development Kit (JDK):** Version 17 or higher.
 * A running **Lavalink Server** (Requires Java 13+). You can host your own or use a public Lavalink node.
 * Git
-* Make a new file named 'commands' and add the files from'pause.js' to 'volume.js'
 
 ### Installation
 
